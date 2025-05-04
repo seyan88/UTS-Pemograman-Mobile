@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeComic</string>
+    <string name="recycler_view_desc">Daftar item tugas</string>
+</resources>
