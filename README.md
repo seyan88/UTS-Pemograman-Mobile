@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Deskripsi Aplikasi
-Aplikasi Android ini dibuat untuk menyelesaikan Studi kasus UTS yang sudah di berikan  Penjelasan dari peoject di lampirkan pada laporan `PDF` yang di  kumpulkan di  `E-Learning`.
+Aplikasi Android ini dibuat untuk menyelesaikan Studi kasus UTS yang sudah di berikan  Penjelasan dari peoject di lampirkan pada laporan `PDF` `Link PDF :https://drive.google.com/file/d/1uD2P4OBRx3bc8xPmRF0DV-OzOhObkojA/view?usp=sharing ` yang di  kumpulkan di  `E-Learning`.
 
 ---
 ## ✅ Aktivitas yang Telah Diimplementasikan
