@@ -14,7 +14,7 @@ Penjelasan lengkap mengenai proyek ini dapat dilihat pada laporan berikut:
 
 📄 [ PDF Studi Kasus UTS](https://drive.google.com/file/d/1uD2P4OBRx3bc8xPmRF0DV-OzOhObkojA/view?usp=sharing)
 
-Laporan tersebut dikumpulkan melalui platform E-Learning.
+Laporan tersebut dikumpulkan melalui platform E-Learning & Gmail.
 
 ---
 ## ✅ Aktivitas yang Telah Diimplementasikan
