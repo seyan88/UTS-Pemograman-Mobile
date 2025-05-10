@@ -1,4 +1,4 @@
-# 📱 Tugas 2 - Input Control Android
+# 📱 UTS - Aplikasi Android Komik
 
 ## 👤 Identitas 
 - **Nama**: Sulastian Setiadi  
